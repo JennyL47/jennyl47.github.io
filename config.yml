@@ -56,7 +56,7 @@ params:
           subtitle: "I am a doctoral student in BUDDY Lab at University of Connecticut. My research interests focus on (1) children's cognitive develoment and emergence of brain activity; (2) the interaction between environmental factors and child's sensitivity. "
           imageUrl: "IMG_4669.jpg"
           imageWidth: 160
-          imageHeight: 250
+          imageHeight: 220
           buttons:
             - name: Papers
               url: papers/
