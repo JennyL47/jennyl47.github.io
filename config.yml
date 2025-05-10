@@ -1,5 +1,5 @@
 baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+title: Siqi Liang
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -27,10 +27,10 @@ menu:
           weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "This website hosts Siqi Liang's research papers, books, course materials, data, curriculum vitae, and contact information."
+    author: Siqi Liang
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
+    DateFormat: "May 2025"
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: true
@@ -52,8 +52,8 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          title: Siqi Liang
+          subtitle: "I am a doctoral student in BUDDY Lab at University of Connecticut. My research interests focus on (1) children's cognitive develoment and emergence of brain activity; (2) the interaction between environmental factors and child's sensitivity. "
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
